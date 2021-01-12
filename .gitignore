@@ -1,0 +1,13 @@
+# Build output
+lib
+
+# npm
+node_modules
+npm-debug.log*
+
+# IDE
+.vscode
+.idea
+
+# Misc.
+.DS_Store
