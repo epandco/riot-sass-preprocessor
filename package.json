@@ -27,5 +27,8 @@
     "sass": "^1.32.2",
     "strip-indent": "^3.0.0",
     "stylelint": "^13.8.0"
+  },
+  "peerDependencies": {
+    "@riotjs/compiler": "4.x || 5.x"
   }
 }
